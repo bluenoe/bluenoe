@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @bluenoe
-I’m passionate about exploring new technologies and constantly seeking ways to improve my coding skills.
-My curiosity often leads me into experimenting with different programming languages and tools, as I love solving challenging problems with innovative solutions.
-- 👀 I’m interested in music, coding, exploring new things.
-- 🌱 I’m currently learning programming and focusing on improving my knowledge of full-stack development.
-- 💞️ I’m looking to collaborate on open-source projects, especially those related to web development or AI. I enjoy collaborating with others and learning from different perspectives, so I'm always excited to contribute to meaningful projects.
-- 📫 How to reach me ...
-You can reach me via GitHub or through my email at baokhanh.dev281@gmail.com. I’m also active on LinkedIn, where I share thoughts on technology and connect with other developers.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: What I just wrote above was written by chatgpt :DDD
+# 👋 Hi there, I'm Bảo Khánh (aka Blu)
 
-<!---
-bluenoe/bluenoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a self-taught web developer  
+🔥 Passionate about building cool stuff with code  
+🌱 Currently learning: Full-stack web dev (MERN stack)  
+📫 Reach me: [your email] | [LinkedIn] | [portfolio link]
+
+## 🧰 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+...
+
+## 📊 GitHub Stats
+![Your github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🧩 Highlight Projects
+- 🚀 [Photobooth App](link) - HTML/CSS/JS + animation
+- 🧼 [Folder Cleaner Tool](link) - Python GUI tool to clean your folder
