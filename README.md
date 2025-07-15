@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path.to/your/banner-image.png" alt="Welcome to my profile banner">
+  <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/banner.png" alt="Welcome to my profile banner">
 </p>
 
 <h1 align="center">
