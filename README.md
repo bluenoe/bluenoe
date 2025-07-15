@@ -9,13 +9,13 @@
   A passionate self-taught developer from Vietnam 🇻🇳, on a mission to build beautiful and user-friendly web experiences.
 </p>
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://huynhduongbaokhanh.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-D15439?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bao-khanh-95102b280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:baokhanh.dev281@email.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -29,7 +29,7 @@ I started my journey as a self-taught developer because I was fascinated with tu
 - 🌱 I’m currently diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js).
 - 👯 I’m looking to collaborate on **open-source projects** related to web accessibility.
 - 💬 Ask me about **JavaScript, React, and front-end animations**.
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[baokhanh.dev281@gmail.com]**
 - 😄 Fun fact: I believe a good UI can make anyone's day better!
 
 ---
