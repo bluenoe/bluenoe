@@ -124,5 +124,8 @@ Here are some of the projects I'm most proud of.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=79ff97&line=79ff97&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph" />
+  ## 🧮 My Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bluenoe&bg_color=1a1b27&color=79ff97&line=79ff97&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph" />
+
 </p>
