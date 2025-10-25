@@ -141,7 +141,7 @@
       </details>
     </td>
 
-    <td width="50%">
+  <td width="50%">
       <h3 align="center">More soon…</h3>
       <div align="center">
         <p>Learning in public — small, steady improvements 🚀</p>
@@ -150,6 +150,7 @@
   </tr>
 </table>
 
+          
 
 ---
 
