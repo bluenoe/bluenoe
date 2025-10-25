@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/bk_banner.jpg" alt="Welcome to my profile banner">
+  <img src="https://raw.githubusercontent/bluenoe/bluenoe/main/bk_banner.jpg" alt="Welcome to my profile banner">
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  A self-taught IT student from Vietnam, learning DevOps with a focus on automation, Linux, and system reliability.  
+  A self-taught IT student from Vietnam, learning DevOps with a focus on automation, Linux, and system reliability.
   I’m still building my foundations and I value clear feedback, small wins, and steady progress.
 </p>
 
@@ -91,7 +91,6 @@
         </ul>
       </details>
     </td>
-
     <td width="50%">
       <h3 align="center">Folder Cleaner (Python)</h3>
       <div align="center">
@@ -113,12 +112,10 @@
       </details>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3 align="center">Photobooth App</h3>
       <div align="center">
-        <!-- 🔧 TODO: đổi link repo/demos cho đúng dự án của Blu -->
         <a href="https://github.com/bluenoe/photobooth" target="_blank">
           <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/assets/photobooth-demo.png" alt="Photobooth App Demo" />
         </a>
@@ -140,8 +137,7 @@
         </ul>
       </details>
     </td>
-
-  <td width="50%">
+    <td width="50%">
       <h3 align="center">More soon…</h3>
       <div align="center">
         <p>Learning in public — small, steady improvements 🚀</p>
@@ -150,8 +146,6 @@
   </tr>
 </table>
 
-          
-
 ---
 
 ### 📊 GitHub Activity & Stats
@@ -159,7 +153,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bluenoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=bluenoe&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=bluenoe&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /> -->
 </p>
 
 <p align="center">
