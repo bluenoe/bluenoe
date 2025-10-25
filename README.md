@@ -153,7 +153,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bluenoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=bluenoe&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluenoe&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bluenoe&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /> -->
 </p>
 
 <p align="center">
