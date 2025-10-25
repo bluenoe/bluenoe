@@ -6,7 +6,7 @@
   Hi there, I'm Bảo Khánh (Blu) 👋
 </h1>
 <p align="center">
-  A self-taught web developer from Vietnam, focused on building user-friendly and modern web experiences.
+  A self-taught IT student from Vietnam, passionate about DevOps, automation, and system reliability.
 </p>
 <p align="center">
   <a href="https://huynhduongbaokhanh.vercel.app/" target="_blank">
