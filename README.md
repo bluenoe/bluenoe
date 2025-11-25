@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/bk_banner.jpg" alt="Welcome to my profile banner">
 </p>
+-->
 
 <h1 align="center">
   Hi there, I'm Bảo Khánh (Blu) 👋
