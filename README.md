@@ -9,8 +9,8 @@
 </h1>
 
 <p align="center">
-  A self-taught IT student from Vietnam, learning DevOps with a focus on automation, Linux, and system reliability.
-  I’m still building my foundations and I value clear feedback, small wins, and steady progress.
+  An Intern QA/Software Tester based in Vietnam with a solid foundation in Linux, Docker, and CI/CD automation.
+  Focused on Shift-Left Testing, API Testing, Test Automation, and System Reliability.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/bao-khanh-95102b280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:baokhanh.dev281@email.com">
+  <a href="mailto:baokhanh.dev281@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -28,53 +28,50 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning: **Linux**, **Docker & Docker Compose**, **GitHub Actions (CI/CD)**, basic **Kubernetes (k3d)**, **Nginx**.
-- 🧭 Interests: **infra as code**, **observability/monitoring**, **reliable releases**, and **clean automation**.
-- 🤝 Open to collaborate on beginner-friendly **DevOps labs** and documentation.
-- 💬 You can ask me about: Docker basics, Compose networks/volumes, Linux CLI, simple CI pipelines.
+- 🎯 Current Status: **Intern QA / Software Tester**
+- 🌱 Focus Areas: **Test Case Design**, **API Testing**, **Bug Tracking**, and **Test Automation (Python/Playwright)**.
+- ⚡ Technical Edge: Leverage **Linux**, **Docker**, and **GitHub Actions** to isolate environments, reproduce complex bugs, and integrate tests into CI/CD pipelines.
+- 🧭 Interests: **Shift-Left Testing**, **Observability/Logging**, and **Automated Regression Suites**.
+- 💬 You can ask me about: API testing with Postman, Dockerizing test environments, Linux CLI log analysis, basic CI integration.
 - 📫 Reach me: **baokhanh.dev281@gmail.com**
-- 🙌 Mindset: learn publicly, ship small, improve consistently.
+- 🙌 Mindset: Catch bugs early, build reproducible test workflows, drive software quality.
 
 ---
 
-### 🛠️ Tech I’m Using (learning-by-doing)
+### 🛠️ Tech & Testing Stack
+
 <p align="left">
-  <strong>Systems & Scripting:</strong><br>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <strong>Testing & Quality Assurance:</strong><br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
 <p align="left">
-  <strong>Containers & Orchestration:</strong><br>
+  <strong>Test Environments & CI/CD (Technical Advantage):</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Docker_Compose-384d54?style=for-the-badge&logo=docker&logoColor=white" alt="Compose"/>
-  <img src="https://img.shields.io/badge/Kubernetes_(k3d)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
-
-<p align="left">
-  <strong>CI/CD & Infra:</strong><br>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 </p>
 
 <p align="left">
-  <strong>Tools:</strong><br>
+  <strong>Tools & Utilities:</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
   <img src="https://img.shields.io/badge/WSL2-2A2A2A?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL2"/>
 </p>
 
 ---
 
-### 🌟 Featured Projects (learning labs)
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">BluApp – DevOps Tier 1</h3>
+      <h3 align="center">BluApp – Test-Ready Microservice</h3>
       <div align="center">
         <a href="https://github.com/bluenoe/BluApp-DevOps-Tier1" target="_blank">
           <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/assets/bluapp-tier1.png" alt="BluApp Demo" />
@@ -86,37 +83,34 @@
         </p>
       </div>
       <details>
-        <summary>💡 More Info</summary>
+        <summary>💡 Highlights</summary>
         <ul>
-          <li><strong>What:</strong> Nginx reverse proxy + Node service via Docker Compose, healthchecks, logs volume, Makefile, simple CI with GitHub Actions.</li>
-          <li><strong>Focus:</strong> container basics, networks, reproducible runs, small automation.</li>
+          <li><strong>What:</strong> Nginx reverse proxy + Node service via Docker Compose, built-in healthchecks, and CI workflows.</li>
+          <li><strong>QA Focus:</strong> Used as a local environment for testing API endpoints, analyzing container logs, and practicing integration testing.</li>
         </ul>
       </details>
     </td>
     <td width="50%">
-      <h3 align="center">Folder Cleaner (Python)</h3>
+      <h3 align="center">Folder Cleaner (Python Utility)</h3>
       <div align="center">
         <a href="https://github.com/bluenoe/folder-cleaner" target="_blank">
-          <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/assets/folder-cleaner.png" alt="Folder Cleaner Demo" />
-        </a>
-        <p>
-          <a href="https://github.com/bluenoe/folder-cleaner" target="_blank">
+          <img src="https://raw.githubusercontent.com/bluenoe/folder-cleaner" target="_blank">
             <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
       </div>
       <details>
-        <summary>💡 More Info</summary>
+        <summary>💡 Highlights</summary>
         <ul>
-          <li><strong>What:</strong> Small GUI tool to organize files by extension.</li>
-          <li><strong>Focus:</strong> shipping small utilities, clean CLI/GUI, safe-run options.</li>
+          <li><strong>What:</strong> GUI tool built with Python to organize files cleanly based on extensions.</li>
+          <li><strong>QA Focus:</strong> Boundary testing, edge-case handling for file permissions/paths, and unit testing logic.</li>
         </ul>
       </details>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Photobooth App</h3>
+      <h3 align="center">Photobooth Web App</h3>
       <div align="center">
         <a href="https://github.com/bluenoe/photobooth" target="_blank">
           <img src="https://raw.githubusercontent.com/bluenoe/bluenoe/main/assets/photobooth-demo.png" alt="Photobooth App Demo" />
@@ -125,24 +119,20 @@
           <a href="https://github.com/bluenoe/photobooth" target="_blank">
             <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <a href="https://photobooth-demo.example.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-D15439?style=for-the-badge&logo=google-chrome&logoColor=white">
-          </a>
         </p>
       </div>
       <details>
-        <summary>💡 More Info</summary>
+        <summary>💡 Highlights</summary>
         <ul>
-          <li><strong>What:</strong> Web-based photobooth cho phép chụp 6/8 ảnh theo khung, chọn khung preset sau khi chụp, lưu/xuất ảnh.</li>
-          <li><strong>Tech:</strong> (ví dụ) JavaScript/TypeScript, Canvas/WebRTC; build & deploy qua Docker.</li>
-          <li><strong>Focus:</strong> build–ship pipeline gọn, artifact reproducible, và static assets cache.</li>
+          <li><strong>What:</strong> Interactive web app for frame selection and photo capture.</li>
+          <li><strong>QA Focus:</strong> Cross-browser UI check, Canvas API functionality testing, and basic performance checks.</li>
         </ul>
       </details>
     </td>
     <td width="50%">
-      <h3 align="center">More soon…</h3>
+      <h3 align="center">API & Automation Test Labs</h3>
       <div align="center">
-        <p>Learning in public — small, steady improvements 🚀</p>
+        <p>🧪 Next Lab: Postman Collections + Playwright Test Suite integrated into GitHub Actions 🚀</p>
       </div>
     </td>
   </tr>
@@ -156,8 +146,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluenoe&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bluenoe&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /> -->
 </p>
 
 <p align="center">
