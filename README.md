@@ -57,6 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="170"/>
-  <img src="./profile/top-langs.svg" alt="Top languages" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=bluenoe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluenoe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
 </p>
